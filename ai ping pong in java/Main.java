@@ -33,7 +33,7 @@ import java.util.Random;
 
  Main(){
      
-     f= new JFrame("Trila");
+     f= new JFrame("AI ping pong");
      playerButton= new JButton("");
      player2Button= new JButton("");
      restartButton = new JButton("Restart");
