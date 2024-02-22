@@ -18,7 +18,7 @@
  import java.awt.*;
  import java.awt.event.*;
 import java.util.Random;
-  class Main {
+ public class Main {
  JFrame f;
  ImageIcon img = new ImageIcon("Red-ball.png");
  String player2;
