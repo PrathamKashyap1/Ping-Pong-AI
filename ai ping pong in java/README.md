@@ -14,4 +14,4 @@
 3. Restarting the game just needed to restart both the threads with default values for variables and redrawing the frame. 
 
 # Future Update
-1. I would add any updates to truly automate this after learning ML
+1. I would add updates to truly automate this after learning ML
