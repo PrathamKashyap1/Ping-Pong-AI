@@ -2,4 +2,4 @@ This is one of my first CS project. I did a game of ping pong in my Freshman yea
 
 The Swing project : [java-swing-project](https://github.com/PrathamKashyap1/Ping-Pong-AI/tree/main/ai%20ping%20pong%20in%20java)
 
-The Basic C project : [c-project](basic-ping-pong-in-C/README.md)
+The Basic C project : [c-project](https://github.com/PrathamKashyap1/Ping-Pong-AI/tree/main/basic%20ping%20pong%20in%20C)
