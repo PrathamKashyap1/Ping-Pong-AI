@@ -11,7 +11,7 @@
 # Working Video
 Here only yellow button is controlled by the user. White bar is controlled by our AI(logical part)
 
-[video](https://github.com/PrathamKashyap1/Ping-Pong-AI/assets/148770042/d42a5a95-1375-406c-90f0-669775845036)
+[video](https://github.com/PrathamKashyap1/Ping-Pong-AI/assets/148770042/0a7bf033-79d7-4533-8b70-aa5c928e98ba)
 
 For two player mode , both buttons are controlled by users.
 
